@@ -1,2 +1,40 @@
 # coopsusingblockchain
-Coops or postcapitalist projects using blockchain
+Here is a list of coops or postcapitalist projects using blockchain:
+
+* https://disco.coop/ 
+* https://www.guerrillatranslation.org/ 
+* https://aragon.org
+* https://arcade.city/
+* http://backfeed.cc/
+* https://democracy.earth/
+* https://holochain.org/
+* https://www.monedapar.com.ar/
+* https://fair-coin.org/
+* https://bankofthecommons.coop
+* http://casa-comuna.coop/
+* http://www.comakery.com/
+* https://consensys.net/
+* http://www.culedger.com/
+* http://dcentproject.eu/
+* https://digitaltown.com/
+* https://doma.city
+* http://bitcoinmacroeconomics.com/2016/02/16/ethereum-cooperative/
+* https://fair.coop/
+* http://market.fair.coop/
+* http://jolocom.com/
+* http://www.ledgerback.coop
+* https://moeda.in/
+* http://www.moneycircles.com
+* http://opensharingeconomy.foundation/
+* https://theotherfruit.com
+* https://outlierventures.io/
+* http://Pueblo.Global
+* https://rchain.coop/
+* http://rcredits.org/
+* http://robinhoodcoop.org
+* http://swarm.city/
+* http://hexalina.io/xfair/
+* https://www.minds.com/
+* https://openbazaar.org/
+* https://brave.com/
+* https://wibson.org/
